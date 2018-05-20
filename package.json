@@ -1,0 +1,27 @@
+{
+  "name": "make-website",
+  "version": "1.0.1",
+  "description": "Quickly start creating a website with index.html, styles.css and main.js files",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "make-website": "./index.js"
+  },
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "https://github.com/AngSin/make-website.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "keywords": [
+    "boilerplate",
+    "website",
+    "create",
+    "website"
+  ],
+  "author": "AngSin",
+  "license": "MIT"
+}
