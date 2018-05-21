@@ -1,6 +1,6 @@
 {
   "name": "make-website",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quickly start creating a website with index.html, styles.css and main.js files",
   "main": "index.js",
   "preferGlobal": true,
